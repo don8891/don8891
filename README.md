@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <strong>DON JOHNS</strong></h1>
 
 <p align="center">
-Computer Science undergraduate building scalable software and intelligent systems. I specialize in Machine Learning, Data Analytics, and Full Stack Development, with a strong focus on solving real-world problems, and delivering measurable impact.
+Computer Science undergraduate building scalable software and intelligent systems. I specialize in Machine Learning, Data Analytics, and Full Stack Development, with a strong focus on solving real-world problems and delivering measurable impact.
 </p>
 
 <p align="center">
@@ -29,14 +29,14 @@ Computer Science undergraduate building scalable software and intelligent system
 <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
-### 🌐 Development
+### 🌐 Development & Design
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,html,flutter" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,flutter,figma" />
 </p>
 
-### 🗄 Databases & Tools
+### 🗄 Database
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,git,pandas" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
