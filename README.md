@@ -10,10 +10,10 @@ Computer Science undergraduate building scalable software and intelligent system
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 About Me
 
 - 🎓 B.Tech Computer Science Student  
-- 📊 Strong foundation in Data Structures, Algorithms, and System Design  
+- 📊 Strong foundation in Data Structures, Algorithms  
 - 🤖 Currently advancing in Machine Learning and Data Analytics  
 - 🛠 Experience building web applications and backend systems  
 - 🎯 Focused on performance, scalability, and clean architecture  
