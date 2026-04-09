@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm <strong>DON JOHNS</strong></h1>
 
 <p align="center">
-Computer Science undergraduate building scalable software and intelligent systems. I specialize in Machine Learning, Data Analytics, and Full Stack Development, with a strong focus on solving real-world problems and delivering measurable impact.
+Computer Science undergraduate building scalable software and secure systems. I specialize in Cybersecurity, Ethical Hacking, and Full Stack Development, with a strong focus on solving real-world problems and delivering measurable impact.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Production-Ready+Systems;Solving+Real-World+Problems;Machine+Learning+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Ethical+Hacker;Building+Secure+Systems;Solving+Real-World+Problems" />
 </p>
 
 ---
@@ -14,9 +14,9 @@ Computer Science undergraduate building scalable software and intelligent system
 
 - 🎓 B.Tech Computer Science Student  
 - 📊 Strong foundation in Data Structures, Algorithms  
-- 🤖 Currently advancing in Machine Learning and Data Analytics  
+- 🔐 Currently exploring Cybersecurity and Ethical Hacking  
 - 🛠 Experience building web applications and backend systems  
-- 🎯 Focused on performance, scalability, and clean architecture  
+- 🎯 Focused on security, performance, scalability, and clean architecture  
 - 📫 Contact: **don123johns@gmail.com**  
 - 🔗 LinkedIn: [linkedin.com/in/donjohns123](https://linkedin.com/in/donjohns123)
 
@@ -65,9 +65,8 @@ Computer Science undergraduate building scalable software and intelligent system
 ## 📌 Open To
 
 - Software Engineering Internships  
-- Machine Learning Internships  
+- Cybersecurity Internships  
 - Backend / Full Stack Roles  
-- Data Analytics Roles  
 
 ---
 
