@@ -1,10 +1,10 @@
-<h1 align="left">Hi 👋, I'm <strong>DON JOHNS</strong></h1>
+<h1 align="center">Hi 👋, I'm <strong>DON JOHNS</strong></h1>
 
 <p align="left">
-Computer Science undergraduate building scalable software and secure systems. I specialize in Cybersecurity, Ethical Hacking, and Full Stack Development, with a strong focus on solving real-world problems and delivering measurable impact.
+Computer Science undergraduate building scalable software and secure systems. I specialize in Cybersecurity and Full Stack Development, with a strong focus on solving real-world problems and delivering measurable impact.
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Backend+Developer;Solving+Real-World+Problems" />
 </p>
 
