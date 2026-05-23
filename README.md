@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm <strong>DON JOHNS</strong></h1>
+<h1 align="left">Hi 👋, I'm <strong>DON JOHNS</strong></h1>
 
-<p align="center">
+<p align="left">
 Computer Science undergraduate building scalable software and secure systems. I specialize in Cybersecurity, Ethical Hacking, and Full Stack Development, with a strong focus on solving real-world problems and delivering measurable impact.
 </p>
 
