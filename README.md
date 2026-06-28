@@ -17,7 +17,7 @@ Computer Science undergraduate building scalable software and secure systems. I 
 - 🔐 Currently exploring Cybersecurity and Ethical Hacking  
 - 🛠 Experience building web applications and backend systems  
 - 🎯 Focused on security, performance, scalability, and clean architecture  
-- 📫 Contact: **don123johns@gmail.com**  
+- 📫 Contact: **donjohns876@gmail.com**  
 - 🔗 LinkedIn: [linkedin.com/in/donjohns123](https://linkedin.com/in/donjohns123)
 
 ---
