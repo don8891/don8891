@@ -14,7 +14,6 @@ Computer Science undergraduate building scalable software and secure systems. I 
 
 - 🎓 B.Tech Computer Science Student  
 - 📊 Strong foundation in Data Structures, Algorithms  
-- 🔐 Currently exploring Cybersecurity and Ethical Hacking  
 - 🛠 Experience building web applications and backend systems  
 - 🎯 Focused on security, performance, scalability, and clean architecture  
 - 📫 Contact: **donjohns876@gmail.com**  
@@ -64,8 +63,7 @@ Computer Science undergraduate building scalable software and secure systems. I 
 
 ## 📌 Open To
 
-- Software Engineering Internships  
-- Cybersecurity Internships  
+- Software Engineering Internships    
 - Backend / Full Stack Roles  
 
 ---
