@@ -25,7 +25,7 @@ Computer Science undergraduate building scalable software and secure systems. I 
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c" />
+<img src="https://skillicons.dev/icons?i=python,c" />
 </p>
 
 ### 🌐 Development & Design
