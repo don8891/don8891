@@ -5,7 +5,7 @@ Computer Science undergraduate building scalable software and secure systems. I 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Developer;AI+Software+DeveloperSolving+Real-World+Problems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Developer;AI+Software+Developer;Solving+Real-World+Problems" />
 </p>
 
 ---
